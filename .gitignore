@@ -1,0 +1,5 @@
+rrcrud/.idea/
+rrcrud/dist/
+rrcrud/node_modules/
+rrcrud/npm-debug.log
+rrcrud/.DS_Store
